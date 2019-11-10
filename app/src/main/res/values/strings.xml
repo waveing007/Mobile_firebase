@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">60022101_SendDataToFirebase</string>
+    <string name="name">Student Name</string>
+    <string name="lastname">Student Last Name</string>
+    <string name="send">Send Data</string>
+    <string name="number">Student Number</string>
+</resources>
